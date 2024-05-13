@@ -1,0 +1,5 @@
+print("Se agarra la escoba")
+print("Se comienza a barrer")
+print("Con la ayuda de un recogedor se recoge el polvo")
+print("Se agarra el recogedor y se bota al basurero")
+print("Habitación limpia")
