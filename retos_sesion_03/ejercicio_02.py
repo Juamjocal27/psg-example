@@ -1,0 +1,8 @@
+print("hola maría")
+print("hola juan")
+print("como te fue en el trabajo")
+print("me va mas o menos pero el trabajo ah sido muy cansador")
+print("...")
+print("tengo mucho trabajo espero terminarlo para este fin de semana")
+print("Bueno ya me voy maria")
+print("nos vemos juan")
