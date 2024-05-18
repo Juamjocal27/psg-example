@@ -7,3 +7,4 @@ dias = horas / 24
 print("Días:", dias)
 print("Horas:", horas)
 print("Minutos:", minutos)
+print("Segundos", cant_seg)
