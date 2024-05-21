@@ -4,6 +4,7 @@ palabra = palabra.lower()
 palabra = palabra.split()
 palabra = ''.join(palabra)
 print(palabra == palabra[::-1])
+
 # Convertimos toda la palabra en minusculas
 #palabra = palabra.lower()
 # print(palabra)
