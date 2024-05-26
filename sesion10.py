@@ -251,124 +251,124 @@
 # conjunto1 |= conjunto2
 # print(conjunto1)
 
-print ("Operador ==")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍔','🍟', '🥤'}
-conjunto3 = {'🍕','🍨'}
-print (conjunto1, conjunto2, conjunto3)
-print(conjunto1 == conjunto2)
-print(conjunto1 == conjunto3)
+# print ("Operador ==")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍔','🍟', '🥤'}
+# conjunto3 = {'🍕','🍨'}
+# print (conjunto1, conjunto2, conjunto3)
+# print(conjunto1 == conjunto2)
+# print(conjunto1 == conjunto3)
 
-print ("Operador !=")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍔','🍟', '🥤'}
-conjunto3 = {'🍕','🍨'}
-print (conjunto1, conjunto2, conjunto3)
-print(conjunto1 != conjunto2)
-print(conjunto1 != conjunto3)
+# print ("Operador !=")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍔','🍟', '🥤'}
+# conjunto3 = {'🍕','🍨'}
+# print (conjunto1, conjunto2, conjunto3)
+# print(conjunto1 != conjunto2)
+# print(conjunto1 != conjunto3)
 
-print ("Operador <")
-conjunto1 = {'🍔','🍟'}
-conjunto2 = {'🍔','🍟', '🥤'}
-conjunto3 = {'🍕','🍨'}
-print (conjunto1, conjunto2, conjunto3)
-print(conjunto1 < conjunto2)
-print(conjunto1 < conjunto3)
+# print ("Operador <")
+# conjunto1 = {'🍔','🍟'}
+# conjunto2 = {'🍔','🍟', '🥤'}
+# conjunto3 = {'🍕','🍨'}
+# print (conjunto1, conjunto2, conjunto3)
+# print(conjunto1 < conjunto2)
+# print(conjunto1 < conjunto3)
 
-print ("Operador >")
-conjunto1 = {'🍔','🍟','🥤','🍕'}
-conjunto2 = {'🍔','🍟', '🥤'}
-conjunto3 = {'🍕','🍨'}
-print (conjunto1, conjunto2, conjunto3)
-print(conjunto1 > conjunto2)
-print(conjunto1 > conjunto3)
+# print ("Operador >")
+# conjunto1 = {'🍔','🍟','🥤','🍕'}
+# conjunto2 = {'🍔','🍟', '🥤'}
+# conjunto3 = {'🍕','🍨'}
+# print (conjunto1, conjunto2, conjunto3)
+# print(conjunto1 > conjunto2)
+# print(conjunto1 > conjunto3)
 
-print ("Operador <=")
-conjunto1 = {'🍔','🍟'}
-conjunto2 = {'🍔','🍟'}
-conjunto3 = {'🍕','🍨'}
-print (conjunto1, conjunto2, conjunto3)
-print(conjunto1 <= conjunto2)
-print(conjunto1 <= conjunto3)
+# print ("Operador <=")
+# conjunto1 = {'🍔','🍟'}
+# conjunto2 = {'🍔','🍟'}
+# conjunto3 = {'🍕','🍨'}
+# print (conjunto1, conjunto2, conjunto3)
+# print(conjunto1 <= conjunto2)
+# print(conjunto1 <= conjunto3)
 
-print ("Operador >=")
-conjunto1 = {'🍔','🍟'}
-conjunto2 = {'🍔','🍟'}
-conjunto3 = {'🍕','🍨'}
-print (conjunto1, conjunto2, conjunto3)
-print(conjunto1 >= conjunto2)
-print(conjunto1 >= conjunto3)
+# print ("Operador >=")
+# conjunto1 = {'🍔','🍟'}
+# conjunto2 = {'🍔','🍟'}
+# conjunto3 = {'🍕','🍨'}
+# print (conjunto1, conjunto2, conjunto3)
+# print(conjunto1 >= conjunto2)
+# print(conjunto1 >= conjunto3)
 
-print ("Operador |")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print (conjunto1, conjunto2)
-union = conjunto1 | conjunto2
-print(union)
+# print ("Operador |")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print (conjunto1, conjunto2)
+# union = conjunto1 | conjunto2
+# print(union)
 
-print ("Operador &")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print (conjunto1, conjunto2)
-interseccion = conjunto1 & conjunto2
-print(interseccion)
+# print ("Operador &")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print (conjunto1, conjunto2)
+# interseccion = conjunto1 & conjunto2
+# print(interseccion)
 
-print ("Operador -")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print ("1:",conjunto1, "2:",conjunto2)
-diferencia = conjunto1 - conjunto2
-print("1 - 2:",diferencia)
-diferencia = conjunto2 - conjunto1
-print("2 - 1:",diferencia)
+# print ("Operador -")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print ("1:",conjunto1, "2:",conjunto2)
+# diferencia = conjunto1 - conjunto2
+# print("1 - 2:",diferencia)
+# diferencia = conjunto2 - conjunto1
+# print("2 - 1:",diferencia)
 
-print ("Operador ^")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print (conjunto1, conjunto2)
-diferencia_simetrica = conjunto1 ^ conjunto2
-print(diferencia_simetrica)
+# print ("Operador ^")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print (conjunto1, conjunto2)
+# diferencia_simetrica = conjunto1 ^ conjunto2
+# print(diferencia_simetrica)
 
-print ("Operador |= Unión")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print (conjunto1, conjunto2)
-conjunto1 |= conjunto2
-print(conjunto1)
+# print ("Operador |= Unión")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print (conjunto1, conjunto2)
+# conjunto1 |= conjunto2
+# print(conjunto1)
 
-print ("Operador &= Intersección")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print (conjunto1, conjunto2)
-conjunto1 &= conjunto2
-print(conjunto1)
+# print ("Operador &= Intersección")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print (conjunto1, conjunto2)
+# conjunto1 &= conjunto2
+# print(conjunto1)
 
-print ("Operador -= Diferencia")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print ("1:",conjunto1, "2:",conjunto2)
-conjunto1 -= conjunto2
-print("1 - 2:",conjunto1)
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 -= conjunto1
-print("2 - 1:",conjunto2)
+# print ("Operador -= Diferencia")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print ("1:",conjunto1, "2:",conjunto2)
+# conjunto1 -= conjunto2
+# print("1 - 2:",conjunto1)
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 -= conjunto1
+# print("2 - 1:",conjunto2)
 
-print ("Operador ^= Diferencia simétrica")
-conjunto1 = {'🍔','🍟', '🥤'}
-conjunto2 = {'🍕','🍨','🥤'}
-print (conjunto1, conjunto2)
-conjunto1 ^= conjunto2
-print(conjunto1)
+# print ("Operador ^= Diferencia simétrica")
+# conjunto1 = {'🍔','🍟', '🥤'}
+# conjunto2 = {'🍕','🍨','🥤'}
+# print (conjunto1, conjunto2)
+# conjunto1 ^= conjunto2
+# print(conjunto1)
 
-conjunto = frozenset({'🍔','🍕','🥗','🍟','🌭'})
-print(conjunto)
-print(type(conjunto))
+# conjunto = frozenset({'🍔','🍕','🥗','🍟','🌭'})
+# print(conjunto)
+# print(type(conjunto))
 
-conjunto = frozenset({1, 2, 3, 4, 5})
-print(conjunto)
-print(conjunto.add(6)) # AttributeError: 'frozenset' object has no attribute 'add'
-print(conjunto.remove(1)) # AttributeError: 'frozenset' object has no attribute 'remove'
-print(conjunto |= {6}) # SyntaxError: invalid syntax
+# conjunto = frozenset({1, 2, 3, 4, 5})
+# print(conjunto)
+# print(conjunto.add(6)) # AttributeError: 'frozenset' object has no attribute 'add'
+# print(conjunto.remove(1)) # AttributeError: 'frozenset' object has no attribute 'remove'
+# print(conjunto |= {6}) # SyntaxError: invalid syntax
 
 print ("Conjunto de conjuntos")
 conjunto = {{'🍅','🍓','🍎'}, {'🍈','🍐','🍏'}} #TypeError: unhashable type: 'set'
